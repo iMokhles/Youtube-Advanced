@@ -1,0 +1,9 @@
+Package: com.imokhles.youtubeadvanced
+Name: Youtube Advanced
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 98% of Cercube source code
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
